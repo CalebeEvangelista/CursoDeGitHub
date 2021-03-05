@@ -1,3 +1,4 @@
+#### [Link da aula](https://youtu.be/iHSbEjqe5rQ)
 ```
 git init (Cria um novo repositório)
 git status (Verifica o estado dos arquivos)
