@@ -1,4 +1,6 @@
-#### [Link da aula](https://youtu.be/iHSbEjqe5rQ)
+#### [Link da aula!](https://youtu.be/iHSbEjqe5rQ)
+- Aqui estão todos os codigos do terminal que foi mostrado na aula pra vocês, aproveitem !
+- Não copie e cole e ache que ta aprendendo, escreva todos se possivel até num papel pra aprender de verdade !
 ```
 git init (Cria um novo repositório)
 git status (Verifica o estado dos arquivos)
