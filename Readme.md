@@ -4,5 +4,5 @@
 ## Arquivos separados por aulas:
  - [Aula 01 - Códigos básicos do Git](https://github.com/CalebeEvangelista/CursoDeGitHub/blob/main/Codigos%20das%20aulas/Codigos-aula-01.md) 
  - [Aula 02 - Personalização do Markdown](https://github.com/CalebeEvangelista/CursoDeGitHub/blob/main/Codigos%20das%20aulas/Codigos-aula-02.md)
-### [Clique e acesse a playlist do curso!](https://www.youtube.com/playlist?list=PLBwyuonjf0zxFSRZWw9XVL08JOQoqYUBy)
- ![](https://i.imgur.com/qngJv3q.png)
+
+<img src="https://i.imgur.com/qngJv3q.png" width="100"></h2> [Clique e acesse a playlist do curso!](https://www.youtube.com/playlist?list=PLBwyuonjf0zxFSRZWw9XVL08JOQoqYUBy) <img src="https://i.imgur.com/qngJv3q.png" width="100"></h2> 
