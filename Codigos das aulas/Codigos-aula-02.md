@@ -14,6 +14,7 @@ Adicionando imagens | \![Legenda\](url da img) | [Legenda](https://i.imgur.com/q
 Quebra de linha | 2x space + enter
 Código | \`Insira o código\` | `print("Hello world")` 
 Títulos | \# (h1), \## (h2), \### (h3), \#### (h4), \##### (h5), \###### (h6) | <h4>Esse é um titulo h4</h4>
+Emojis | \:bowtie\: \:smile\: \:heart_eyes\:| :bowtie: :smile: :heart_eyes: [Para mais emojis clica aqui!](https://www.webfx.com/tools/emoji-cheat-sheet/)
 
 #### Observação:
 > * Usando a barra invertida você pode colocar os caracteres de forma literal sem fazer a formatação   
