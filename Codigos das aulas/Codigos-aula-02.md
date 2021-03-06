@@ -8,7 +8,7 @@
 | ------|-----|-----|
 *Itálico* | \*Text\* | *Text*
 **Negrito** | \*\*Text\*\* | **Text**
-Riscado | \~~Texto\~~ | ~~Texto~~ 
+Riscado | ~\~Texto\~\~ | ~~Texto~~ 
 Acionando link | \[Texto\](url aqui) | [Texto](http://youtube.com/c/garotodeprogramacalebe)
 Adicionando imagens | \![Legenda\](url da img) | [Legenda](https://i.imgur.com/qngJv3q.png)
 Quebra de linha | 2x space + enter
