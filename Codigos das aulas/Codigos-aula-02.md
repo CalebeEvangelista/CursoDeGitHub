@@ -7,8 +7,13 @@
 | ------|-----|-----|
 *Itálico* | \*Text\* | *Text*
 **Negrito** | \*\*Text\*\* | **Text**
-Acionando link | \[texto\](url aqui) | [texto](http://youtube.com/c/garotodeprogramacalebe)
-Adicionando imagens | \![Legenda\](url da img) | Legenda[image](https://i.imgur.com/qngJv3q.png)
+Riscado | \~~Texto\~~ | ~~Texto~~ 
+Acionando link | \[Texto\](url aqui) | [Texto](http://youtube.com/c/garotodeprogramacalebe)
+Adicionando imagens | \![Legenda\](url da img) | [Legenda](https://i.imgur.com/qngJv3q.png)
 Quebra de linha | 2x space + enter
 Código | \`Insira o código\` | `print("Hello world")` 
 Títulos | \# (h1), \## (h2), \### (h3), \#### (h4), \##### (h5), \###### (h6) | <h4>Esse é um titulo h4</h4>
+
+#### Observação:
+> * Usando a barra invertida você pode colocar os caracteres de forma literal sem fazer a formatação   
+ `Escrevendo assim -> \*Este\* O Markdown não vai formatar para um texto em itálico`
