@@ -5,8 +5,7 @@
 ## Tipos de textos
 | Formato        | Sintaxe      | Exemplo |
 | ------|-----|-----|
-
-- *Itálico* | \*Text\* | *Text*
+*Itálico* | \*Text\* | *Text*
 - **Negrito**: \*\*Text\*\* -> **Text**
 - Acionando link: \[texto\](url aqui) -> [texto](http://youtube.com/c/garotodeprogramacalebe)
 - Adicionando imagens: \![Legenda\](url da img) -> Legenda[image](https://i.imgur.com/qngJv3q.png)
