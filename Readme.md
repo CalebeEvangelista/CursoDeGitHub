@@ -3,5 +3,6 @@
 > *Lembrando tambem que sempre que puder vou atualizar esse repositório mesmo que não grave video, mas, se for algo que seja muito relevante mesmo eu gravo um video e coloco na playlist do mini curso!* :squirrel:
 ## Arquivos separados por aulas:
  - [Codigos mostrados na Aula 01](https://github.com/CalebeEvangelista/CursoDeGitHub/blob/main/Codigos%20das%20aulas/Codigos-aula-01.md) 
+ - [Codigos mostrados na Aula 02](https://github.com/CalebeEvangelista/CursoDeGitHub/blob/main/Codigos%20das%20aulas/Codigos-aula-02.md)
 ### [Clique e acesse a playlist do curso!](https://www.youtube.com/playlist?list=PLBwyuonjf0zxFSRZWw9XVL08JOQoqYUBy)
  ![](https://i.imgur.com/qngJv3q.png)
