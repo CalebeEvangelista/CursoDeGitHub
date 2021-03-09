@@ -6,11 +6,13 @@
 ## Tipos de textos
 | Formato        | Sintaxe      | Exemplo |
 | ------|-----|-----|
-*Itálico* | \*Text\* | *Text*
-**Negrito** | \*\*Text\*\* | **Text**
+Lista com pontos | - Tenho 18 anos | ![Kazam_screenshot_00001](https://user-images.githubusercontent.com/47128204/110342310-03fef180-800a-11eb-8961-cf4a8d7db54c.png)
+Itálico | \*Text\* | *Text*
+Negrito | \*\*Text\*\* | **Text**
 Riscado | ~\~Texto\~\~ | ~~Texto~~ 
 Acionando link | \[Texto\](url aqui) | [Texto](http://youtube.com/c/garotodeprogramacalebe)
 Adicionando imagens e Gifs | \![Legenda\](url da img) | [Legenda](https://i.imgur.com/qngJv3q.png)
+Comentario | > Texto | ![Kazam_screenshot_00000](https://user-images.githubusercontent.com/47128204/110339938-78846100-8007-11eb-89d1-71489d348af6.png)
 Quebra de linha | 2x space + enter
 Código | \`Insira o código\` | `print("Hello world")` 
 Código completo + estilo | ![](https://i.imgur.com/46McK1P.png) | ![](https://i.imgur.com/MVJNjvp.png)
